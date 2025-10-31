@@ -26,7 +26,7 @@
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Contact**](mailto:karthikpragada06@gmail.com)
+- [**MyEmail**](mailto:karthikpragada06@gmail.com)
 
 <a href="https://www.linkedin.com/in/karthik-pragada/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
