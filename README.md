@@ -12,7 +12,7 @@
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
 ## Streak Record
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags040&theme=merko)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags8585&theme=merko)](https://git.io/streak-stats)
 --
 
 ## Stats
