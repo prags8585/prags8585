@@ -13,17 +13,10 @@
 
 
 ## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
-
+![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags8585&show_icons=true&theme=merko) 
 ---
 
-## Links
+## Contact Information
 - [**MyEmail-karthikpragada06@gmail.com**](mailto:karthikpragada06@gmail.com)
 
 <a href="https://www.linkedin.com/in/karthik-pragada/" target="blank">
