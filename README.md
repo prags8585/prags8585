@@ -11,6 +11,9 @@
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
+## Streak Record
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prags040&theme=merko)](https://git.io/streak-stats)
+--
 
 ## Stats
 ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=prags8585&show_icons=true&theme=merko) 
