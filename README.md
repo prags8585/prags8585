@@ -1,23 +1,7 @@
-<!--
-Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
-# 🐐 Maximus Soares Demo Account
-**`Growth Lead at NextWork`** 
-
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- Masters of Data Intelligence at San Jose State University, Sanjose, California, USA
+- Bachelors of Computer Science Engineering at SRM Institute of Science and Technology, Chennai, India
+- EX Deloitte Analyst with 3 years of work experience with Java Spring Boot Development applications.
 
 
 ## Skill stack
